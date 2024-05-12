@@ -2,7 +2,7 @@
 # Rumour Source Detection - Social Network Analysis
 
 
-This project is Done under the Department of Computer Science and Engineereing, College of Engineering Roorkee.<br>
+This project is Done under the Department of Information Technology, College of Engineering Roorkee.<br>
 
 Description: Rumour Source Detection<br>
 
